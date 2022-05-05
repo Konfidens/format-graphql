@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":[],"sources":["../src/index.js"],"sourcesContent":["// @flow\n\nexport {formatSdl} from './utilities';\n"],"mappings":";;;;;;;;;;;;AAEA"}
